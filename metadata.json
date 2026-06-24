@@ -1,0 +1,6 @@
+{
+  "name": "Kartik Labs",
+  "description": "The official world-class portfolio app of Kartikeya Kumar Chaubey - Web & App Developer, Video Editor, and AI Enthusiast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
